@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="12.143" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Wishlist add and remove options" name="Verify the Wishlist with add and remove options" time="11.98">
+<system-out><![CDATA[
+Given User is on DemoWebShop Web mainpage...................................passed
+When User Click the Search Feature..........................................passed
+And User Enter smartphone and click search option...........................passed
+And user pick the first smart phone.........................................passed
+And User add the smartphone into wishlist...................................passed
+And User verify the wishlist count..........................................passed
+And User remove the smartphone from the Wishlists...........................passed
+Then User Got the Wishlist add and remove function..........................passed
+]]></system-out>
+</testcase>
+</testsuite>
